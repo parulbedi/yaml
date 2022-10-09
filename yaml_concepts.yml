@@ -64,4 +64,12 @@ Shopping List:
 #Flow Style
 Fruits: [Strawberry, Banana, Lemon, "Watermelon", Mango, "Apple", Pear, Peach, "Tomato"]
 
+#Dictionaries
+Shopping Lists:
+- Clothings:
+    T-Shirt: Groviano
+    Jeans: Denizen
+    Socks: Generic
+    Loafers: Red Chief
+    Perfumes: Lacoste
 ...
