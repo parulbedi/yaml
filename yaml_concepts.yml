@@ -1,0 +1,67 @@
+---
+
+#Scalar
+name: Parul Bedi
+language: Python
+location:
+  - region: Nangal
+  - latitude: 31.383373
+  - longitude: 76.375507
+hex: 0x12d6
+octal: 024432
+health: true
+onVacation: false
+tea: Yes
+positive-infinity: .inf
+negative-infinity: -.inf
+isNumberValid: .NAN
+null-value: ~
+
+#Strings
+Name: Parul Bedi
+About: |-
+  Hi!
+  My Name P
+  Parul Bedi,
+  I am from Nangal
+Skill: "[Azure] & {AWS} - <Terraform>" 
+Address: >
+  #---/-,
+  Indra Nagar
+  Nangal
+  Dam
+Indian: "Yes"
+
+#implicit & explicit type
+Music: !!str yes
+Age: !!float 5.2
+Experience: !!str 5.6 Years
+Null Value: !!null null
+Curent Date: !!timestamp 2022-10-30
+
+#collection & sequence
+
+#Block Style
+Shopping List:
+- Groceries:
+  - Milk
+  - Wheat
+  - Mustard Oil
+  - Toothpaste
+  - Spices
+  - Rice
+- Medicines:
+    - Paracetamol
+    - Antiseptic cream
+    - Painkiller
+- Clothing:
+  - T-Shirt
+  - Jeans
+  - Socks
+  - Loafers 
+  - Perfumes
+
+#Flow Style
+Fruits: [Strawberry, Banana, Lemon, "Watermelon", Mango, "Apple", Pear, Peach, "Tomato"]
+
+...
